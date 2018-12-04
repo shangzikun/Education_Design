@@ -4,3 +4,4 @@
 *.apk
 /Application/Runtime/
 /Application/Admin/Conf/config.php/
+/Common/Conf/config.php
